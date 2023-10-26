@@ -4,5 +4,6 @@
 Descubre scripts simples pero efectivos que cubren temas esenciales como estructuras de control, manipulación de listas y bucles. Cada archivo aquí contiene soluciones claras y comprensibles, diseñadas para ayudarte a entender los conceptos básicos de Python de una manera práctica.
 
 <body>
-    <img src="[https://tutorias.co/wp-content/uploads/2014/07/intentosAciertoPython.jpg" alt="Imagen de Python](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x)https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x">
+    <h1>Editor de Código para Aprender Python</h1>
+    <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x" alt="Raspberry Pi - Editor de Código para Aprender Python">
 </body>
